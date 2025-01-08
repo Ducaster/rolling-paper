@@ -5,3 +5,4 @@
 [submodule "docker-project-front"]
     path = docker-project-front
     url = https://github.com/Ducaster/docker-project-front.git
+    branch = master

@@ -36,7 +36,7 @@ services:
    
   
  front:  
-  image: rolling-front:1.0  
+ image: ducaster/rolling-front:1.0  
   container_name: rolling-front  
   restart: always  
   depends_on:  
